@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.porodem.porod.icooked.CheckIngredients">
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteIngr1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/first_ingr_hint"/>
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteIngr2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/autoCompleteIngr1"
+        android:hint="@string/second_ingr_hint"/>
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteIngr3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/autoCompleteIngr2"
+        android:hint="@string/third_ingr_hint"/>
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteIngr4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/autoCompleteIngr3"
+        android:hint="@string/fourth_ingr_hint"/>
+    <Button
+        android:id="@+id/btnFindByIng"
+        android:text="@string/button_find_by_ingr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/autoCompleteIngr4"
+        android:layout_marginTop="20dp"
+        android:onClick="clickByIng"/>
+    <ListView
+        android:id="@+id/lvData"
+        android:layout_below="@id/btnFindByIng"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+
+</RelativeLayout>

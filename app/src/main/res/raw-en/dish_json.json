@@ -1,0 +1,380 @@
+{
+	"data":"dbdish",
+	"dish":[
+	{
+		"title":"Omelette",
+		"sound":"fry",
+		"time":15,
+		"ingr":["egg", "milk"],
+		"recipe":" Ingredients:\n Eggs - 4 pcs\n butter - 20 g\n Milk - 100 g\n green onion\n salt. \n\n Break the eggs into a bowl, add salt and beat them. Green onions finely chop and mix with eggs. Now add the milk and stir again all. Grease the pan with butter and set it on fire. As soon as the pan heats up, pour in the egg-milk mixture and cover with a lid. Fry until cooked."
+	}
+	,
+	{
+		"title":"Pasta nautically",
+		"sound":"fry",
+		"time":25,
+		"ingr":["pasta", "minced meat"],
+		"recipe":" Food 4 servings:\n pasta - 400 g\n vegetable oil - 30-50 g\n onions - 1-2 pcs\n water - 3 l\n stuffing (chicken, pork, turkey) - 500 g\n salt, pepper, spices \n\n Water bring to a boil, add salt. Pasta throw into boiling water and cook until cooked according to instructions. Then, drain the water and ready pasta rinse under cold running water. Peel and wash the onions. Cut into cubes. Heat the pan, pour 5 -6 tablespoons of vegetable oil. Fry onion over medium heat until cooked. Add raw ground beef to the pan. Fry stirring over medium heat until cooking 10-15 minutes. Season with salt and pepper and add favorite spices. Roasted stuffing mix with the finished pasta. "
+	}
+	,
+	{
+		"title":"Okroshka kvass",
+		"sound":"cut",
+		"time":10,
+		"ingr":["potato", "egg", "sausage", "cucumber"] ,
+		"recipe":"Fresh cold brew - 1 liter\n boiled potatoes - 3 pcs.\n Eggs - 3 pcs.\n sausage - 200 grams\n fresh cucumber - 2 pcs.\n green onions - 1 bunch\n parsley\n dill, salt, sour cream. \n How to cook hodgepodge - all cut, fill kvass, add sour cream and - voila, ready!"
+	}
+	,
+	{
+		"title":"Borsch with beef",
+		"sound":"boil",
+		"time":110,
+		"ingr":["beef", "cabbage", "beet", "potatoes"],
+		"recipe":"The products on 6 servings:\n Beef - 500 g\n Beetroot - 1 piece.\n Potatoes - 2 pcs.\n Cabbage - 200 g\n Carrots - 1 pc.\n Onions - 1 pc.\n Herbs (dill or parsley) - 2-3 tsp.\n tomato paste - 1 tbsp.\n vegetable oil - 2 tbsp.\n tablespoons vinegar - 1 tsp.\n Sour cream - 2 tbsp.\n salt - 2 tsp.\n black pepper peas - 2 -3 pcs.\n bay leaf - 1 pc.\n\n Beef washed, cut into large chunks. Pour 1.5 liters of water and cook for 90 minutes over medium heat, removing the foam formed. At the end of cooking salt. Beets clean, wash, cut into strips. Carrots are clean, wash, grate. Onions clean, wash and finely chop. Wash the cabbage, chop. Peel the potatoes, wash and cut into cubes. In a skillet heat the vegetable oil. On medium heat, beets, carrots and onions, stirring occasionally, simmer in a pan with vegetable oil for 5-7 minutes.\n At the end, add the vinegar and tomato paste. Stir. In the boiling broth to put the potatoes and cabbage, cook for 10 minutes. Then add the steamed vegetables, bay leaves and, if desired, and pepper. Simmer soup with beef for 5-7 minutes. Ready soup with beef pour into bowls, sour cream and sprinkle with herbs."
+	}
+	,
+	{
+		"title":"Rassolnik with the pearl barley",
+		"sound":"boil",
+		"time":90,
+		"ingr":["Pearl barley", "carrot", "potato", "cucumbers"],
+		"recipe":"The products on 6 servings:\n Pearl barley - 1.5 st.\n Carrots - 2-3 pc.\n Onions - 1 pc.\n flour - 0.5 tsp,\n Potatoes - 2-3 pcs.\n marinated Cucumbers - 2 pcs. or pickled cucumbers - 2 pcs.\n vegetable oil - 0.33 cups,\n bay leaf - 1-2 pcs.\n pepper - 5 pcs.\n salt - 1 tbsp.\n pickle cucumber - 2 tbsp.\n tomato paste (optional) - 1-2 tbsp.\n\nPreviously, for 8-10 hours before cooking (it is possible for the night) to soak 1.5 tablespoons of pearl barley. This will improve the taste of pearl barley, and cook it faster. Swollen barley pour a small amount of water (0.5 liters) with the addition of third of a glass of vegetable oil and put to boil. While the pearl-barley cooked, clean, wash and chop the onions and carrots. Heat a frying pan. Pour 30 grams of vegetable oil. And fry vegetables in vegetable oil over medium heat, stirring for 2-4 minutes. Add fried half a teaspoon of flour, stir well to avoid lumps. \n If get too thick, slightly dilute with boiling water (no more than 0.5 liters). Peel and wash the potatoes. Cut into cubes. Add bay leaf, peppercorns and simmer for 20-25 minutes until soft cereals, then put the potatoes. Cucumber cut into cubes. When the potatoes are cooked (about 10-20 minutes), add to rassolnik cucumbers, cut into small cubes and, if necessary, dilute with boiling water (about 1-2 glasses) to the desired consistency. Season with salt, add spices and cook with pearl barley rassolnik for 2-3 minutes. If there is no sharpness or acid, can pour a little (a few tablespoons) of brine from the cucumber and tomato paste to taste (1-2 tbsp. Spoons)."
+	}
+	,
+	{
+		"title":"Azu",
+		"sound":"fry",
+		"time":120,
+		"ingr":["beef", "tomatoes", "cucumbers", "tomato paste"],
+		"recipe":"The flesh of beef - 750 g\n tomatoes - 4 pc.\n Pickled cucumbers - 3 pieces.\n Onions - 1 pc.\n Tomato Paste - 1.5 tbsp,\n bay leaf,\n Vegetable oil - 3 tbsp.\n salt\n\n Meat wash and dry cloth. Cut the meat in small rectangular pieces and fry in a pan with vegetable oil. Put the meat in a saucepan. Cut the onion into slices and fry in 1 tbsp. spoonful of oil. Add to skillet with meat. With a saucepan add water to just cover the meat with onions. Scald the tomatoes and peel. Cut the tomatoes into small cubes and put it on top of the meat to the skillet. Season with salt and pepper. Cover the skillet with a lid and put on a moderate fire. Simmer 40 minutes.\n Cucumbers cut into small cubes. Mix them with the tomato paste and add to the skillet. Add the bay leaf. Cover and simmer another 20 minutes. Serve usually Azu with boiled potatoes."
+	}
+	,
+	{
+		"title":"Roast",
+		"sound":"fry",
+		"time":95,
+		"ingr":["beef", "potato", "tomato paste"],
+		"recipe":"Beef (back) - 500 g, or pork (shoulder, neck) - 500 g potato - 750-800 g, onions - 100 (1 pc.); Fat - 50 grams, broth or water - 300-400 ml .; tomato puree - 60 grams, vegetable oil.\nSlice the meat for 2-3 pieces per serving (weighing 30-40 g) Salo finely chop. Potatoes are peeled, cut into cubes and put in a bowl or pan. Onions is cleaned and cut into slices. In a frying pan heat the oil (2 tbsp.). Meat fried until golden brown (3-4 minutes). The meat is then fried inverted and the other side (also 3-4 minutes). \n Preheat the second pan. In a preheated dry pan fried bacon (1-2 minutes). Potatoes dried and spread on a pan to fat.Fry on all sides until golden brown (10-15 minutes). The meat is placed in a pot (or cauldron) interspersed with layers of fried potatoes and onions. It is better if the top is a layer of potatoes. Add the tomato puree, bay leaf, salt and pepper. Also hot at home can be cooked without tomato. Pour broth or water so that they were coated products. Stew until tender (30-40 minutes). After 25-35 minutes after the start of quenching washed and cut greens. The finished hot homemade sprinkle with chopped herbs."
+	}
+	,
+	{
+		"title":"Chakhokhbili Chicken Georgian",
+		"sound":"fry",
+		"time":60,
+		"ingr":["chicken", "tomato"],
+		"recipe":"Products on 8 servings: chilled chicken thighs (or chicken) 8 pcs. onion 4 pieces. fresh meaty tomatoes 4 pieces. fresh dill 4 sprigs fresh parsley 4 sprigs fresh cilantro 4 branches, Sauce satsebeli 3 tbsp . butter 50 g .; garlic 2 large cloves, 1 tsp salt, ground black pepper 0.5 tsp, tsp paprika 0.5. hops-suneli 0.5 tsp, 0.5 tsp coriander powder, dried basil 0.5 tsp; \n Better to use chilled meat, it will taste better than frozen. Slops and dry with paper towels chicken thighs. Peel with them should not be removed, it will give juice for roasting meat.\n If you use a whole chicken chakhokhbili, it should be cut into kusochkiyaso. In a pan melt the butter piece. When the oil starts to boil, drop in his thighs. If meat is fatty, it is possible to fry without oil on heated with fat. When the thighs a good roast and turn brown, turn them over to the other side. Fry the meat until tender, that it is well browned. \n Grilled thighs to shift into a saucepan or kettle. Spill a little oil in a pan, which is roasted thighs. We cook the chicken for 5-7 minutes on low heat. At this time, 4 onions cleanse, and we shall cut cubes of medium size. Then add the chopped onion to the chicken and continue to cook it under cover. The mortar shall pound chopped garlic with aromatic spices and salt. \n Sprinkle of chicken that she should be sated aromas. To clean the skin from the tomatoes, make them small cut crosswise and drop a couple of minutes in boiling water. Then gently'll get them, cooled in ice water and peel completely. We will cut the tomatoes into small pieces. When the onion browns, add the tomatoes with the juice precipitated to the remaining ingredients. Gently stir and continue to cook. \n In addition, it is not necessary to add water, since the tomato juice will start up, and completely cover chicken. Parsley, cilantro and dill slops, dry and finely cut. After 15 minutes, add a few spoonfuls of sauce chakhokhbili satsebeli. Then add the chopped herbs, we shall cover the pan with a lid and simmer the chicken will be another 5 minutes. \n The finished dish before serving must stand for 5-10 minutes. Optionally satsebeli sauce can be replaced by a sharp ketchup or no use. Also chakhokhbili can add hot peppers for sharpness. In this case, be sure to cut it in half, remove seeds and finely chop."
+	}
+	,
+	{
+		"title":"Salad with saury and rice",
+		"sound":"cut",
+		"time":5,
+		"ingr":["cheese", "egg", "saury", "rice"],
+		"recipe":"You will need: 100 g of cheese, 3 boiled eggs, 2 pieces pickle, onion 1pc; Canned saury, 0.5 cups of dry rice, mayonnaise, parsley.\n Mash with a fork fish, rice, boil until crumbly. Chop finely greens , onions, eggs and cucumbers, cheese rub, mix with the mashed fish and cooled down rice, add mayonnaise and mix again."
+	}
+	,
+	{
+		"title":"Dumplings with potatoes",
+		"sound":"boil",
+		"time":60,
+		"ingr":["flour", "potatoes"],
+		"recipe":"You will need: flour - 3 cups, sour cream - 3 tablespoons; soda - 0.5 tsp, 0.5 cups of water; Potatoes - 5-6 pcs; Onions - 3 pcs; Butter - 100 g Salt .\n Potatoes and onions clean, wash. Cut into pieces. Boil 2.5 liters of water, salt. Lower the potatoes and onions in boiling water. Cook until tender, about 20-25 minutes. Onion peel and wash. Cut in small pieces. Melt the butter. \n Put the onion and fry over medium heat, stirring occasionally, until golden brown (4-6 minutes). When the potatoes are cooked, drain all the water. Make a puree. Salt and pepper, add the 1/3 fried onions and butter. Mix well. Cool filling. Prepare the dough for the dumplings and potatoes. Sift flour, mix with salt. Add to cream soda. Mix well. Sour cream and soda add to flour, stir, stirring constantly and adding water, knead the dough of medium thickness.\n The dough covered with a towel. Let stand for 20 minutes. The dough is divided into 4 parts. Roll the piece of dough into a circle (1.5-2 mm thick), as required sprinkle with flour. Squeeze a glass circles. In the middle of each circle to put not a full teaspoon of the potato filling. The edge of the dumpling carefully stick together.\n Blindly all dumplings. Pour into a pan of water. Boil. Season with salt. Put a portion of dumplings. Slightly stop to dumplings do not stick to the bottom of the pan. Cook dumplings with potatoes 2-3 minutes after bubbling."
+	}
+	,
+	{
+		"title":"Pollock in sour cream",
+		"sound":"boil",
+		"time":40,
+		"ingr":["Pollock", "sour cream", "carrots"],
+		"recipe":"Pollock fresh - 400 g, onions - 2 pieces; carrots - 1 pc; Sour cream (15%) - 3 cl, salt, spices to taste. \n Purified carcass pollock cut portions into small pieces (Be sure the fish is fresh! !!). We cut finely the onion, carrots, grate on a coarse grater. Sour cream is diluted with water (50 ml), salt, add spices and stir.\n Fry onion, add it to the carrots and simmer 5 - 7 minutes. On the carrot-onion Put the fish pieces and pour sour cream and spices. Simmer, covered on low heat for 20 minutes. In the process of putting the fish have to flip to the other side and from top to sauce."
+	}
+	,
+	{
+		"title":"Soup with meatballs",
+		"sound":"boil",
+		"time":50,
+		"ingr":["potato", "stuffing", "carrot"],
+		"recipe":"Potatoes 3pc, carrots 1 piece, 1 piece Onion, Minced meat 200-300 g Green 20-30 g Butter 20 g Vegetable oil 2-3 tbsp, 2 liters water. Salt 1-2 tsp. ground black pepper, bay leaf 1 pcs. melt butter or use softened butter. onion peel and rub on a small grater or chop in a blender. in 200 grams of minced onion half of. \n For this recipe used ground beef, but you can take any meat to your liking, or to combine several types of meat. \n By minced meat add chopped onion, butter, salt and ground black pepper to taste, as well as a small amount of water, so the stuffing will be juicier. In addition to these ingredients in ground beef, you can add a small amount of fried onions and carrots, grated Parmesan cheese, chopped fresh herbs, chopped bell pepper.\n Well knead the stuffing. In order to keep the meatballs better shape and not fall apart during cooking ground beef is best not simply be stirred, but beat off. To do this, take the stuffing in hand and throw back into the bowl, and so repeat 10-15 times. \n Begins to form meatballs. Using a teaspoon spread portion of meat on your hands and roll the ball. To make it easier to roll the meatballs hands, lightly moistened with water.We make meatballs the same size and shape. And folding at a small distance from each other. In a saucepan pour the water and bring to a boil. In the water add bay leaf, salt to taste and pepper, pepper or ground. You can also add the allspice. In boiling water, put the meatballs and again bring to a boil. \n When the water comes to a boil in a saucepan and starts to form the foam, it must be removed using a skimmer or an ordinary tablespoon. Cook meatballs for 7-10 minutes after boiling water. Then take out the meatballs from the broth. Potatoes, peel and cut into cubes. Put the potatoes in the broth in which the cooked meatballs and bring to a boil. \n In addition to the potatoes in the soup, you can add rice, buckwheat, pasta, semolina and other cereals to your taste. Accordingly, pasta and semolina must be added to the end of cooking, and rice and buckwheat, along with potatoes. Try the taste of the broth and, if necessary, add salt and pepper to taste. Onions cut into cubes and carrots grate. \n On a dry frying pan pour the heated oil and heated it. Then put her onions and carrots. Fry the vegetables until translucent state or a light golden color. After 10 minutes, after you have added in the soup fried potatoes add the vegetables. Return the meatballs to the soup. The greens washed and dried. Finely chop the dill, parsley and green onions. Try the soup taste and if necessary add salt or pepper. Then add the chopped parsley. We bring the soup to a boil and turn off. Cover tightly with a lid and give the brew for 10-20 minutes."
+	}
+	,
+	{
+		"title":"Tomato scrambled eggs Nastya",
+		"sound":"fry",
+		"time":15,
+		"ingr":["egg", "tomato", "cheese"],
+		"recipe":"On 1 serving: \n 2 eggs\n 3 medium tomatoes\n cheese 100 g\n 2 cloves of garlic\n salt and pepper. \n\n Preparation: In a frying pan heat the oil. garlic finely chop and fry until golden brown. Remove the skins from the tomatoes, cut into slices, send to the pan, salt. beat 2 eggs in tomato broth, wait.\n When the egg whites begin to turn white, a little fork to mix them with tomatoes and continue to fry until cooked egg whites. but yolks must remain liquid. 2 minutes until cooked sprinkle with grated cheese. Eat with some bread."
+	}
+	,
+		{
+		"title":"Potatoes fried on fat",
+		"sound":"fry",
+		"time":30,
+		"ingr":[" potato"," fat"],
+		"recipe":"Potatoes Wash, peel, onion peel, put off . Salo (fat) cut into slices and send on a hot frying pan, add oil, to hiss. Enter sliced potatoes. Potatoes are a couple flip, then enter a bow. Fry the potatoes over high heat. Cover, wait a few minutes, turn over. Onions should be at the bottom. All! Once again mix (3-5 minutes) and set aside to moistened - the lid slightly open."
+	}
+	,
+	{
+		"title":"French toast (grenki)",
+		"sound":"fry",
+		"time":10,
+		"ingr":["egg"],
+		"recipe":"Whisk in a bowl the eggs, salt and pepper. Bread cut into pieces , dip into the egg mass and spread on a hot skillet. Fry on both sides. Done."
+	  }
+	  ,
+	{
+		"title":"Lazy cabbage rolls with rice",
+		"sound":"fry",
+		"time":25,
+		"ingr":["stuffing", "cabbage", "rice", "carrot"],
+		"recipe":" Ingredients:\n fresh cabbage - 700 g.\n minced veal or chicken - 500 g.\n rice - about a glass.\n carrots - 2 pcs .\n onions - 2 pcs .\n garlic - 1 clove\n vegetable oil\n ground black pepper, salt. \n\n Crumble onion and garlic finely. Then carrot rub on a small or medium grater. Then lay out the onion to the pan and fry in oil until transparent color. After that, add the carrots, stir and saute until the mass, until the vegetables are tender. \n We spread the stuffing in a pan or in a roasting pan mash it with help of a shovel. Salt, pepper, mix with vegetables, cover with lid. Simmer over medium heat for about 15 minutes. Then add finely shredded cabbage, washed rice, stir.\n Cover the pan with a lid and bring a dish until done. Next, add the finely chopped garlic, if necessary, add some salt, pour oil or broth."
+	  }
+	  ,
+	{
+		"title":"Liver chops",
+		"sound":"fry",
+		"time":45,
+		"ingr":["buckwheat","liver","egg"," flour"],
+		"recipe":" Ingredients:\n buckwheat boiled - 1 cup\n onions - 1-2 pieces.\n Liver - 500 g.\n flour - 1-2 tbs\n chicken eggs - 2\n ground black pepper, salt\n vegetable oil \n\n onion crumble, buckwheat boil water until tender. Then remove the film and fat from the liver, wash. Next, cut into pieces of it. Then twist the prepared foods in a meat grinder or chop processor or blender.\n In mixed cutlet mass adding buckwheat flour, stir eggs. Salt, pepper. Carefully stir the mixture, cover with a lid and leave for 10-15 minutes on the kitchen table. Then, in the heated pan pour a little oil and spread with a spoon minced cutlet. Cover with a lid over medium heat and fry the cutlets first one side, then turn over browning after another."
+	  }
+	  ,
+	{
+		"title":"Pea soup puree",
+		"sound":"boli",
+		"time":80,
+		"ingr":["potato", "pea", "carrot"],
+		"recipe":" Ingredients:\n potatoes - 2 pcs.\n carrots - 1 pc.\n Dry peas (better half) - 1-1.5 cups\n onions - 1 pc.\n root of parsnip or parsley - 1 pc.\n vegetable oil is odorless\n bay leaf - 1 pc.\n fresh herbs\n garlic - 1-2 cloves\n black pepper, salt.\n\n Soak the peas in the evening washed with pure water at room temperature. Then drain the water, add the peas in a saucepan with 2 liters of water and bring to a boil. Then reduce heat and boils down to a lot of soft state for about an hour. \n After that, lay in a saucepan potatoes, diced carrots and root shredded on a grater. Then, until the vegetables are cooked, prepare the filling into the soup. \n To do this, finely crumbled onion fry until golden brown in oil. Add to the soup with garlic chives, bay leaf, onion. Cook on low heat for 5-7 minutes. At the end of salt, pepper. Remove the pan from the heat, remove the bay leaf. Mashed using immersion blender to a desired state."
+	  }
+	  ,
+	{
+		"title":"Fried Dumplings",
+		"sound":"fry",
+		"time":25,
+		"ingr":["dumplings"],
+		"recipe":" Ingredients:\n vegetable oil\n broth or water\n dumplings\n ground black pepper\n bay leaf - 1 pc.\n salt\n ketchup, mayonnaise or sour cream.\n\n Heat the pan over medium heat, pour a little oil. Then lay out all the products produced on one pan. Salt, pepper, fry, add oil if necessary. After the lower part slightly browned, being careful not to break, we turn every dumpling backwards.\n After 5-7 minutes, pour the cooking water or broth semi-finished products in the amount of 0.5-0.75 liters, add some salt. Add the bay leaf, cover the pan lid. Cook at maximum heat up until all the liquid has evaporated."
+	  }
+	  ,
+	{
+		"title":"Pasta carbonara",
+		"sound":"boil",
+		"time":25,
+		"ingr":["spaghetti","bacon", "egg", "chees"],
+		"recipe":" Ingredients:\n Spaghetti of durum wheat - 1 small package\n bacon - 200 g.\n sour cream 33% fat - 1 cup\n egg yolks - 2-3 pcs .\n cheese varieties - 100 g.\n olive oil\n garlic - 2 cloves\n black pepper, salt.\n\n Bacon cut into thin strips. Peeled garlic finely crumble. Then the cheese is rubbed on the smallest grater. Next to the heated pan, pour a little oil and garlic spread, fire diminish. Then add pieces of bacon, fry, stirring constantly, so the meat is not dried up, but only blushed. Set aside.\n  In a wide pan bring to a boil the water, put the spaghetti, boil them for 1-2 minutes less than the time specified on the package for this type of pasta. Then, add the yolks to the cream and shredded cheese, stir. \n Cooked spaghetti in a colander thrown back, drain. We shift the paste into a clean pan, pour the hot cream sauce, stir. Add the bacon and warm up the paste over low heat for 1-2 minutes (if cooled pasta). Mix until smooth dish."
+	  }
+	  ,
+	{
+		"title":"Ready-made dumplings ",
+		"sound":"boil",
+		"time":7,
+		"ingr":["dumplings", "sour cream"],
+		"recipe":"Buy ready-made dumplings and sour cream. Dumplings cook in boiling water for 7 minutes. Pull, add sour cream."
+	  }
+	  ,
+	{
+		"title":"Chicken legs in the oven",
+		"sound":"fry",
+		"time":60,
+		"ingr":["chicken","cheese"],
+		"recipe":" Ingredients:\n hard cheese - 100 g.\n legs - 2 pcs.\n universal seasoning or a mixture of pepper - 1 tsp.\n dry white wine - a quarter cup\n Garlic - 2-3 cloves\n  refined olive oil\n salt. \n\n Thoroughly wash poultry and blotted it with a paper towel. Then, in a small bowl, mix the spices with wine, garlic finely crumbled. Leg put in a large container, pour marinade to get them, add some salt, stir. \n Next Preheat the oven to 200 degrees. Cheese rub on a small grater. We take out the ham from the marinade, separate the skin from the flesh, and the resulting space spread the cheese. Do not pour the marinade, as it still is useful to us. Meat camouflage skin. Then, filled with pieces of cheese spread in a deep roasting pan or form, greased. Top Pour the remainder of the marinade and place the form in the oven for 30-40 minutes."
+	  }
+	  ,
+	{
+		"title":"The liver in sour cream",
+		"sound":"fry",
+		"time":25,
+		"ingr":["liver","sour cream"],
+		"recipe":" Ingredients:\n onions - 2 pcs.\n sour cream - 1 cup\n Liver - 400 g.\n salt, black pepper\n vegetable oil for frying. \n\n Crumble onion. Then pour boiling water over a piece of liver, and with a knife remove the upper thin film. Cleaned piece cut into cubes of medium size (you can pre-soak liver in milk for half an hour for better softening). Further, the heated pan pour a little oil, spread the onion. \n Reduce the fire and bring the onions until clear. Then increase the fire, add the liver and fry quickly (so it does not become rigid) until golden brown, stirring occasionally. After the formation of the crust again diminish the flame and pour the sour cream. Mix. Salt, pepper, cover with a lid and simmer brazier whole mass for 10-12 minutes."
+	  }
+	  ,
+	{
+		"title":"Pasta casserole with minced",
+		"sound":"fry",
+		"time":45,
+		"ingr":["pasta","minced meat","egg","milk"],
+		"recipe":" Ingredients:\n spaghetti , shells or others - 300 g.\n minced chicken - 200-300 g.\n Milk - 1 cup\n Eggs - 1 pc .\n Tomato ketchup - half a cup; onions - 1 pc. spices, Provencal grass; vegetable oil; ground black pepper; salt. \nIn a wide saucepan pour half of the volume of water, bring to a boil. Then, add some salt and drop the pasta, cook with the lid open until half cooked. Recline in a colander, pour the oil on top of the spoon to the product are not stuck together, knead. \n Next, we take a ready, raw minced meat and pour in a quarter cup of milk, salt, pepper, stir. Thereafter, at the bottom of the round or square-shaped pour oil. Then spread an even layer of cooked pasta.\n From stuffing balls do, then flattening them. These thin layers put on the entire surface of the pasta. In a bowl mix the rest of the milk, ketchup, herbs, spices and egg. Cook the mixture, but do not shake up it, but simply mixed. Next, fill minced meat on top with the mixture and place the form in a preheated 190 ° C oven for about 20-30 minutes, until then, until the sauce has evaporated."
+	  }
+	  ,
+	{
+		"title":"Chicken wings",
+		"sound":"fry",
+		"time":600,
+		"ingr":["chicken","soy sauce","honey"],
+		"recipe":" Ingredients:\n soy sauce - half a cup\n liquid honey - 1 tbsp\n seasoning for chicken or Curry - 0.5 tbsp\n Wings - 1 kg.\n vegetable oil\n packages of food film - 2 pcs.\n\n If you want to cook frozen wings before cooking them first unfreezes; chilled thoroughly washed to remove the remains of feathers and down. Once all the chicken pieces were washed, we put them in a colander to drain excess water.\n To prepare the sauce, mix the honey in a bowl all the ingredients with the addition of a small amount of oil. Then shake up the mixture until smooth. \n Further, each wing remove the remainder of the water with a paper towel and then drop into honey sauce. One package insert in the second, for the case rupture, and placed inside a greased chicken. Then, clutching the arms package, releasing them from the air and tightly tying.\n Placed in a refrigerator for at least overnight and preferably at a day, occasionally turn over from one side to another. Spread wings on a baking sheet, greased, and bake in the oven, preheated to 150 degrees for an hour."
+	  }
+	  ,
+	{
+		"title":"Braised cabbage with meat",
+		"sound":"fry",
+		"time":30,
+		"ingr":["meat", "cabbage", "carrot"],
+		"recipe":" Ingredients:\n flesh of veal - 400 g.\n cabbage - 1 kg.\n onions - 1 pc.\n carrots - 1 pc.\n fresh tomatoes - 1 pc.\n tomato puree - 2 tbsp.\n melted butter - 2-3 tbsp.\n sweet bell pepper - 1 pc.\n; sour cream - 1 tbsp.\n\n Veal cut into small pieces, mix with salt and pepper. Then, on a hot roasting pan put butter and meat. Fry the meat, stirring occasionally, not very high heat until browned. Then lay out the onion, carrots and continue to do saute until lightly browned. Fresh diced tomatoes add to the total weight. Then we spread the shredded cabbage into thin strips, pre-cleaned from the upper leaves.\n Bates fire, cover with a lid and simmer roasting pan vegetables with meat 15-20 minutes. In a bowl or cup combine sour cream, tomato and half a cup of water. The resulting sauce pour the tomato dish, stir and simmer until tender. If cabbage juice a little, pour some water."
+	  }
+	  ,
+	{
+		"title":"Ready-made dumplings",
+		"sound":"boil",
+		"time":10,
+		"ingr":["dumplings"],
+		"recipe":"Buy some good dumplings, cook them. We eat with mayonnaise!"
+	  }
+	  ,
+	{
+		"title":"Soup of processed cheese",
+		"sound":"boli",
+		"time":25,
+		"ingr":["cheese", "champignons", "minced meat", "vermicelli"],
+		"recipe":" Ingredients:\n cream cheese - 1 pc.\n champignons - 200 g.\n minced meat - 100 g.\n onions - 1 pc.\n cream - half a cup\n vermicelli thin\n vegetable oil\n seasoning Curry\n black pepper, salt.\n\n Pour into a pan of 1.5 liters of water or any broth (you can put a bouillon cube), bring to a boil. Minced meat lightly fried in butter with chopped onion. We spread into the meat sliced champignons and simmer until cooked whole mass. Processed cheese cut into cubes, drop into boiling water. After a bit of cheese melted, add to the pan fried mushroom mixture with the mince and cook for 7-10 minutes.\n Pour into a handful of vermicelli soup. Salt, pepper to taste and pour Curry. Cook over low heat for about 5-7 minutes, until such time as the vermicelli is ready. Fill the cream, stir and remove from heat."
+	  }
+	  ,
+	{
+		"title":"Season with salt herring!",
+		"sound":"cut",
+		"time":1000,
+		"ingr":["herring"],
+		"recipe":" Ingredients:\n herring - 1 kg.\n salt - 6 tbsp. without top\n sugar - 3 tbsp.\n bay leaf - 3-4 pс.\n allspice pepper - 10.\n water - 1 l.\n\n Water is poured into the pan and bring to a boil. Add the sugar, salt, pepper, bay leaf. Boil the marinade on slow fire for 7-10 minutes. Defrosted fresh fish washed and completely (no need to gut) laid in the tank (plastic container, tray, etc.).\n Fill the cooled brine and put it on the bottom shelf of the refrigerator for 3 days. Then pull out the herring from the brine, cut is separated from the bones, cut into slices, mix with marinated onions and cook herring salad."
+	  }
+	  ,
+	{
+		"title":"Milk soup with vermicelli",
+		"sound":"boil",
+		"time":600,
+		"ingr":["milk","vermicelli"],
+		"recipe":" Ingredients:\n whole milk skim - 1 l.\n vermicelli from durum wheat - 1 cup\n sugar, salt\n\n milk bring to a boil, stirring constantly. pours out small portions of all pasta. Season with salt and place in the a little sugar to desired. Boil on low heat for 7-10 minutes."
+	  }
+	  ,
+	{
+		"title":"Lagman of spaghetti",
+		"sound":"fry",
+		"time":40,
+		"ingr":["beef","tomato","spaghetti","potato"],
+		"recipe":" Ingredients:\n Beef - 300 g.\n Eggplant - 1 pc.\n Pepper - 2 pc.\n onion - 1 pc.\n potato - 2 pc.\n carrots - 2 pc.\n tomato - 2 \n Garlic - 3 cloves\n Spaghetti - 0.5 units (half a pack)\n spices \n\n In the vegetable oil to fry the garlic, then add the pieces of meat and onion. Fry until brown. Vegetables, cut into cubes, tomatoes - slices. Add eggplant, carrot, pepper, fry, and only then - tomatoes. Simmer 5 minutes. \n Now add the potatoes into cubes. Salt, pepper, add all sorts of spices. Fill broth or water to just cover the vegetables. Simmer until cooked potatoes and meat. Separately, a decoction of spaghetti. Crumbled pasta on plates, top and pour the mixture from the pan. Garnish with onion rings and herbs. Done!"
+	  }
+	  ,
+	{
+		"title":"Rice with tuna ",
+		"sound":"cut",
+		"time":50,
+		"ingr":["tuna", "rice"],
+		"recipe":" Ingredients:\n Canned tuna - 300 g.\n long grain Rice 1.5 cups\n Onions - 1 \n chili - 2 pc.\n Cumin seeds - 2 tsp.\n Turmeric - 1 tbs.\n sunflower oil - 2 tbsp.\n spice mixture garam masala - 1 tsp.\n\n First, in vegetable oil fry the cumin seeds. Then chop the onion, chili pepper, add the cumin. Stew onion until soft. Then add the turmeric and garam masala spice mix. Stir. Put the tuna. Stir. Now to the tuna, spices and onions with chilli add boiled rice. Stir. Stew all together for another five to seven minutes. Put in a deep cup, cover plate and turn. Nicely, in the restaurant. Enjoy."
+	  }
+	  ,
+	{
+		"title":"Fried potatoes with egg",
+		"sound":"fry",
+		"time":50,
+		"ingr":["potatoes","milk","egg"],
+		"recipe":" Ingredients:\n Potatoes - 1 kg.\n Egg - 3 pieces.\n Milk - 1 tbsp.\n Cleaned and cooked potato slice and fry in oil. Eggs break into a saucepan, add the milk, salt and stir well. Roasted potatoes, pour the eggs and bake."
+	  }
+	  ,
+	{
+		"title":"Potato chops",
+		"sound":"fry",
+		"time":50,
+		"ingr":["potato","flour","egg"],
+		"recipe":" Ingredients:\n Potatoes 1 - kg.\n Wheat flour - 1/2 tbsp.\n Egg - 2 pcs.\n Vegetable oil\n\n Peel and boil the potatoes. Drain the water and potatoes, leave for 10 minutes to dry. While the potatoes are cooled, knead it. The resulting puree, add a tablespoon of butter, egg yolks, Stir thoroughly and divide chops. When cutting roll chops in flour or breadcrumbs and then fry on both sides in oil."
+	  }
+	  ,
+	{
+		"title":"Bigos",
+		"sound":"fry",
+		"time":120,
+		"ingr":["ribs", "cabbage", "sauerkraut"],
+		"recipe":" Ingredients for 4 servings:\n Pork ribs - 400 g.\n White cabbage - 500 g.\n Sauerkraut - 400 g.\n onion - 1 \n Carrot - 1 pc.\n Prunes (pitted) - 150 g.\n Salt and pepper\n\n Ribs cut. In a deep skillet fry without excess fat. Periodically stir the meat to become a dark golden. The ribs roasted for 10-15 minutes over medium heat, with the lid open. Onions cleaned, cut into strips and add after the meat was rosy. Stir and continue to saute until the onion is golden. Then grate the carrots in bigos. Season with salt and pepper and add 2-3 bay leaves. Fry without lid for another 5 minutes to the carrot became soft. \n Place the sauerkraut in a saucepan, stir, cover (just now need the cover), reduce the heat and simmer the cabbage with meat 15 minutes. Fresh cabbage chop. Add the latest in a saucepan. \n Simmer for an hour, stirring occasionally. Then add to the bigos washed and soft pitted prunes. Prune not need to be cut into pieces, even if it is large. Add the prunes in bigos, stir and simmer another 15 minutes."
+	  }
+	  ,
+	{
+		"title":"Meat fried in a pan",
+		"sound":"fry",
+		"time":30,
+		"ingr":["pork"],
+		"recipe":" Ingredients:\n Pork - 1 kg.\n Onions - 2 pcs.\n Vegetable oil\n salt and pepper. \n\n Meat wash and cut into slices. Put the meat on a heated pan with vegetable oil, cover and let it extinguish. The older the meat, the longer it must be extinguished - until soft. Meanwhile, chop the onion half rings. Put the onions to the meat, salt and pepper to taste. Fry the onion with the meat until cooked together. Serve with a side dish of rice or potatoes, with fresh chopped carrots and white cabbage."
+	  }
+	  ,
+	{
+		"title":"Tomato soup with rice and meatballs",
+		"sound":"boil",
+		"time":45,
+		"ingr":["tomatoes", "minced meat", "rice"],
+		"recipe":" Ingredients:\n 700 g. tomatoes\n 500 g. of minced meat (pork + beef)\n 3 tbsp. breadcrumbs\n 150 g. rice\n 100 g. of onion\n 2-3 cloves of garlic\n salt, pepper\n herbs\n\n In the beef add the breadcrumbs, salt and pepper, mix well. Form of minced meatballs the size of a walnut. Tomatoes peel, put in a blender. Grind. If no blender, tomatoes grate. Onions finely chop. In a saucepan pour 2.5 liters of water to boil. In boiling water pour rice. When the rice starts to boil, add the meatballs and cook for 5 minutes. \n Add the tomatoes. Then add the onions (you can fry the onion in vegetable oil), salt and pepper, cook until cooked rice. When the soup is ready, add the squeezed garlic, let stand, covered for 20-25 minutes."
+	  }
+	  ,
+	{
+		"title":"Quick schnitzel",
+		"sound":"fry",
+		"time":40,
+		"ingr":["minced meat","egg"],
+		"recipe":" Ingredients:\n 100 g. of white bread\n 150 g. onions\n 1 eggs\n 500 g. of meat\n breadcrumbs\n vegetable oil\n salt and pepper. \n\n Bread soaked in water 10 minutes then discard in a colander and squeeze well. The meat and onions into cubes and miss twice through a meat grinder with depressed bread. Season with salt and pepper. Add the egg. Thoroughly knead and form 5 identical balls. Everyone how to fight off the bottom of the bowl. Roll the balls in the breadcrumbs and give shape to a flat cake. \n Cook schnitzels in two ways: in the oven and in the pan. In the oven: Baking tray or baking dish greased with oil, put schnitzels and baked at a temperature of 180-200 ° C. 10 minutes on one side, then 5-7 - on the other. \n In a frying pan: red-hot frying pan with vegetable oil, reduce heat to medium and fry a minimum of 5-7 minutes on each side."
+	  }
+	  ,
+	{
+		"title":"Goulash of pork",
+		"sound":"fry",
+		"time":50,
+		"ingr":["pork","tomato paste"],
+		"recipe":" Ingredients:\n Pork meat - 400 g.\n Onions - 1 pc.\n Tomato paste - 1 tbsp.\n Sugar - 1 tsp.\n Salt\n Red pepper - 1/2 tsp.\n Dry adjika - 1 tsp.\n Bay Leaf - 2 pcs.\n Vegetable oil - 3 tbsp.\n Flour - 1 tbsp.\n\n Pork cut into small cubes. Better to take a fillet or part of the neck. Fry in vegetable oil. The meat add chopped onion, spices and salt. Fry the onion until softened. After 10-15 minutes, add a tablespoon of flour. Stir well and be sure to fry the meat with flour to remove the flour taste. Add a spoonful of tomato paste, sugar, salt, mix well. \n Fry all together for 3 minutes. Pour the boiling water to the meat was completely covered. Add the bay leaf and simmer for 20-30 minutes under the lid closed until soft meat and gravy thickens. Goulash with gravy ready. For those who does not like gravy, the dish can be dry by holding the fire for a long time without closing the lid."
+	  }
+	  ,
+	{
+		"title":"Lush omelette",
+		"sound":"fry",
+		"time":35,
+		"ingr":["egg","milk"],
+		"recipe":" Ingredients:\n eggs - 6\n milk - 1.5 cupsv\n butter - 30 g.\n salt. \n\n Divide the egg yolks and whites on. Mix the egg yolks with the milk to an even consistency. Season with salt. In another container whip the whites until a solid foam. Add the beaten egg whites into the general mix of stir. Lubricate the form of a thin layer of butter, fill it with the mixture and place in a preheated 200 ° oven. Bake without opening the oven for half an hour. The dish is ready! \n Notes: Kindergarten- casserole turns high and delicate due to the milk its member. It is recommended to observe a combination of 1: 3 - one part for the eggs need 3 pieces of milk. Note that after fall omelet is 1-2 cm above the level at which it was poured. \n The greater the initial weight in a pot, the higher the casserole. Bake on low heat or small capacity. Do not open the oven door during cooking."
+	  }
+	  ,
+	{
+		"title":"Potatoes with chicken in the oven",
+		"sound":"fry",
+		"time":90,
+		"ingr":["chicken","potatoes"],
+		"recipe":" Ingredients:\n 1 chicken (legs or 3-4)\n mayonnaise 3 tbsp.\n salt, pepper\n 3 cloves garlic\n 1 kg. of potatoes\n\n Chicken cut into pieces a la carte. If you have legs, they also cut in half. Clean the garlic and cut each clove lengthwise into 3 parts, so it is more convenient lard bird. Chicken stuffed with garlic now rub it with salt and pepper and smear mayonnaise. We spread the chicken on a baking sheet and put in the oven for 30 minutes. Bake at 180-190 degrees Celsius.\n Potatoes clean and cut slices (thin). We took out the chicken and spread on a baking potatoes to the chicken, salt it and mix with the fat formed in the process.\n I have adapted and spread the potatoes are not on the sides of the chicken (or it is burnt on the edges), and in the midway, and the chicken moves closer to the edge. It turns a fortress from the outside well-roasted chicken and potatoes inside remains soft and cooked in the juice of the bird, you can add a little water or beer. Cook for 40-50 minutes."
+	  }
+	  ,
+	{
+		"title":"Tolchenka fried sausage",
+		"sound":"fry",
+		"time":30,
+		"ingr":["sausage","potato"],
+		"recipe":" Ingredients:\n sausage\n potatoes\n milk\n\n Boil potatoes, crush it by pouring the milk, add butter. Fry sausage. We eat all together."
+	  }
+	  ,
+	{
+		"title":"Instant noodles",
+		"sound":"boil",
+		"time":10,
+		"ingr":["pack of noodles"],
+		"recipe":"Buy your favorite instant noodles, boil and eat! You can add mayonnaise!"
+	  }
+	  ,
+	{
+		"title":"Meatballs",
+		"sound":"fry",
+		"time":90,
+		"ingr":["minced meat","rice","flour"],
+		"recipe":" Ingredients:\n Minced meat (pork or pork + beef) 500 g.\n carrots 1\n Onion 1 pc.\n Round grain rice 1 cup\n 2 eggs\n Tomato paste 2 tbsp.\n Sour cream 2 tbsp.\n oil 4 tbsp.\n black pepper, salt\n herbs (parsley, dill)\n Flour. \n\n Rice is washed in cold water and put on a small fire. Such rice absorbs a lot of water, so the glass grains pour 2 cups of water. Boil the rice until cooked sure, enough for 10-15 minutes and then just leave it under the hood. Meat pork or a mixture of pork and beef. You can also use chicken or turkey for cooking dietary meatballs. Grind the minced meat should be well until smooth. \n Then finely chop the onions, carrots grate. Slightly fry it all in vegetable oil in a small skillet. Then you can make the meatballs 2 different ways. Tasty will be so and so, but without the option of roasting useful for children and people who have problems with the digestive system. \n Recipe 1. \n Stir in a large bowl, rice, ground beef and fried onion and carrot. Add the eggs, salt and pepper. From the resulting mass form the balls, roll them in flour and tightly placed in a preheated wide pan or baking sheet with vegetable oil. In a deep bowl or a small saucepan mix the tomato paste and sour cream, then diluted with water (you can broth). Water takes about a cup, better to add it later if you find that is not enough. The resulting sauce is poured meatballs, so that the upper layer has been covered. Frying pan covered with a lid and leave on low heat stew or send it in the oven 40 minutes Gravy absorbed into meatballs, giving them a gentle taste, and thicken gradually decreasing in volume. \n Recipe 2. \n Stir the rice with minced meat, add eggs and pepper. From the resulting mass form the balls, roll them in flour and fry gently on a hot frying pan until golden brown, taking care that they do not fall apart. Fried meatballs tightly folded into a deep skillet or pan, covering with a layer of roasted onions and carrots. Tomato paste mixed with sour cream, diluted with water (soup can), and pour this sauce meatballs. Stew over low heat, covered for 20-25 minutes."
+	  }
+	  ,
+	{
+		"title":"Meat chops",
+		"sound":"fry",
+		"time":60,
+		"ingr":["meat"],
+		"recipe":" Ingredients:\n Meat - 1 kg.\n onions - 1 pc.\n egg - 1\n stale white bread - 300 g.\n\n Meat grinder scroll through a large grille, or buy big scrolled stuffing. Onions finely diced approximately 4-5 mm. In no case do not scroll onion chops are much worse. Add chopped onion to the minced meat.\n Bread soaked in water, squeeze all the water out of it and add to the stuffing. The main theme here - the amount of bread. About kilogram of minced I put a little more than one-third sliced long loaf. If you add a little bread, the chops are solid and do not delicious. Add the egg to the minced meat - it will not fall apart cutlets in the pan. Add salt and pepper to taste, then mix the minced meat so that was a homogeneous mass. \n Slightly heated pan, pour vegetable oil, put the formed chops. Do not make chops big and too thick, otherwise they will have longer to fry, and they lose their juiciness. thickness of approximately 1.5 cm will be adequate. When the chops browned on one side, flip them. \n Cutlets need a couple more times to turn. In no case do not pour water and do not cover the lid - so you boil them. 7-8 minutes is enough to chop 1.5 cm thick fry."
+	  }
+	  ,
+	{
+		"title":"The Holy Spirit",
+		"sound":"bless",
+		"time":1,
+		"ingr":[" "],
+		"recipe":"MAN SHALL NOT LIVE ON BREAD ALONE, BUT ON EVERY WORD THAT PROCEEDS OUT OF THE MOUTH OF GOD. (Evangilie Matthew 4:3)"
+	  }
+	  ,
+	{
+		"title":"Soup saury",
+		"sound":"boil",
+		"time":60,
+		"ingr":["saury","potatoes"],
+		"recipe":" Ingredients:\n water - 2 l.\n small potatoes - 4\n medium onion - 1 pc .\n carrots - half the average or one small\n 1 jar of canned saury\n salt, pepper\n bay leaves are large\n any spices\n dill and parsley - 3 sprigs\n oil\n\n Potatoes cut into medium dice. Wash rice with cold water. Onions finely chop. In boiling salted water, add the potatoes and rice. Cook for 15 minutes. Onions fry in vegetable oil. Half of saury mash with a fork into small pieces. After 15 minutes in the pan with the potatoes and add the rice saury (chunks and chopped) with an oil-filled and fried onions. pepper. Cook for another 10-15 minutes. When a plate soup can decorate with parsley."
+	  }
+	]
+}

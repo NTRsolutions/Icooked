@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:orientation="vertical" tools:context=".MainActivity"
+    android:id="@+id/root_lin_layout">
+    <Button
+        android:id="@+id/btnCook"
+        android:text="@string/what_to_cook"
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="randomCook"/>
+    <Button
+        android:id="@+id/btnByIngr"
+        android:text="@string/find_by_ing"
+        android:layout_below="@+id/btnCook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="ingrCook"/>
+    <Button
+        android:id="@+id/btnFavorite"
+        android:text="@string/button_favorite"
+        android:layout_below="@+id/btnByIngr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clickFavorite"/>
+
+    <com.google.android.gms.ads.AdView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"/>
+
+</RelativeLayout>

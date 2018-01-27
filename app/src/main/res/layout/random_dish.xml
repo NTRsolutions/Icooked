@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.porodem.porod.icooked.RandomDish">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView2">
+        <LinearLayout
+            android:id="@+id/linLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_title_recipe"
+                android:text="Название рецепта" android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"/>
+            <TextView
+                android:id="@+id/tv_random_time"
+                android:text="@string/cooking_time" android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"/>
+            <ImageView
+                android:id="@+id/ivDish"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/tv_pecipe"
+                android:text="Рецепт" android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:id="@+id/tv_dummy_for_button_space"
+                android:text="" android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_random"
+        android:background="@color/actionbar_background"
+        android:id="@+id/nextDishBtn"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/scrollView2"
+        android:layout_alignEnd="@+id/scrollView2"
+        android:onClick="clickNextDish"/>
+
+</RelativeLayout>
