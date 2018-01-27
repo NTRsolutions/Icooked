@@ -1,19 +1,12 @@
 package com.porodem.porod.icooked;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.content.res.Resources;
-import android.content.res.TypedArray;
 import android.database.Cursor;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
-import android.widget.AutoCompleteTextView;
 import android.widget.EditText;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -27,9 +20,6 @@ import java.io.Reader;
 import java.io.StringWriter;
 import java.io.UnsupportedEncodingException;
 import java.io.Writer;
-
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -48,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+/*
         //for ADMOB banner
         AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder()
@@ -57,10 +47,13 @@ public class MainActivity extends AppCompatActivity {
                 .addTestDevice("326CC4AF774C0DEF99FFA64731058CE9")
                 .build();
         mAdView.loadAd(adRequest);
+*/
 
+//comented 27.01.17 cause of error renderind preview
         //for
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setIcon(R.drawable.logo_ico);
+
 /*
         Resources res = getResources();
         TypedArray dishimg = res.obtainTypedArray(R.array.dish_images);

@@ -37,20 +37,23 @@ public class CheckIngredients extends AppCompatActivity implements LoaderManager
     DB db;
     SimpleCursorAdapter scAdapter;
 
+    int quantity; //how much fields user used for ingredients
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_check_ingredients);
 
         //For back to homeActivity from action bar
-        getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
+        //getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
+
 
         ingredients = getResources().getStringArray(R.array.all_ingredients);
 
-        actv1 = (AutoCompleteTextView)findViewById(R.id.autoCompleteIngr1);
-        actv2 = (AutoCompleteTextView)findViewById(R.id.autoCompleteIngr2);
-        actv3 = (AutoCompleteTextView)findViewById(R.id.autoCompleteIngr3);
-        actv4 = (AutoCompleteTextView)findViewById(R.id.autoCompleteIngr4);
+        actv1 = findViewById(R.id.autoCompleteIngr1);
+        actv2 = findViewById(R.id.autoCompleteIngr2);
+        actv3 = findViewById(R.id.autoCompleteIngr3);
+        actv4 = findViewById(R.id.autoCompleteIngr4);
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, ingredients);
         actv1.setAdapter(adapter);
@@ -129,23 +132,75 @@ public class CheckIngredients extends AppCompatActivity implements LoaderManager
     public void clickByIng(View view) {
         InputMethodManager inputManager = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
         inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+        boolean haveAnyInput = false;
         String myIngr = actv1.getText().toString();
         String myIngr2 = actv2.getText().toString();
         String myIngr3 = actv3.getText().toString();
+        String myIngr4 = actv4.getText().toString();
+
+        if (!myIngr.matches("")) {
+            haveAnyInput = true;
+            if (myIngr2.matches("")) quantity = 1;
+            else {
+                if (myIngr3.matches(""))  quantity = 2;
+                else {
+                    if (myIngr4.matches("")) quantity = 3;
+                    else  quantity = 4;
+                }
+            }
+        }
+        Log.d(LOG_TAG, "quantity = " + quantity);
+        /*
+        if (myIngr2.matches("")) quantity = 1;
+        if (myIngr3.matches("")) quantity = 2;
+        if (myIngr4.matches("")) quantity = 3;
+        */
+
+        if (haveAnyInput) {
+            switch (quantity) {
+                case 1: db.getMyIngr(myIngr);
+                    break;
+                case 2: db.getMyIngr(myIngr, myIngr2);
+                    break;
+                case 3: db.getMyIngr(myIngr, myIngr2, myIngr3);
+                    break;
+                case 4: db.getMyIngr(myIngr,myIngr2, myIngr3, myIngr4);
+                    break;
+            }
+        }
+
+
+
+
+        /*
         if (myIngr.equals("") && myIngr2.equals("") && myIngr3.equals("")){
             Toast.makeText(this, "введите значение", Toast.LENGTH_SHORT).show();
         } else {
             Log.d(LOG_TAG, "--- clickByIng ---");
 
 
-            String myIngr4 = "null";
-            if (myIngr2.matches("")) {
+            //String myIngr4 = "null";
+            if (myIngr.matches("")) {
                 myIngr2 = "null";
+                quantity = 1;
+                db.getMyIngr(myIngr);
+
             }
             if (myIngr3.matches("")) {
                 myIngr3 = "null";
+                quantity = 2;
+                db.getMyIngr(myIngr, myIngr2);
             }
-            db.getMyIngr(myIngr, myIngr2, myIngr3, myIngr4);
+            if (!myIngr3.matches("")) {
+                quantity = 3;
+                db.getMyIngr(myIngr, myIngr2, myIngr3);
+            }
+            if (!myIngr4.matches("")) {
+                quantity = 4;
+                db.getMyIngr(myIngr, myIngr2, myIngr3, myIngr4);
+            }
+            //db.getMyIngr(myIngr, myIngr2, myIngr3, myIngr4);
+*/
             Log.d(LOG_TAG, "--- getMyIngr complete ---");
             Log.d(LOG_TAG, "--- Strings:" + myIngr + ":" + myIngr2 + ":" + myIngr3 + ":" + myIngr4);
         /*if (myIngr2.equals("") &&  myIngr3.equals("") && myIngr4.equals("")) {
@@ -156,7 +211,7 @@ public class CheckIngredients extends AppCompatActivity implements LoaderManager
             //create loader for data reading
             getLoaderManager().initLoader(0, null, this);
             getLoaderManager().getLoader(0).forceLoad();
-        }
+
 
     }
 

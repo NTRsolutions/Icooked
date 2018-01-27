@@ -1,37 +1,51 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    xmlns:ads="http://schemas.android.com/apk/res-auto"
+<android.support.constraint.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_height="match_parent"
-    android:orientation="vertical" tools:context=".MainActivity"
-    android:id="@+id/root_lin_layout">
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
     <Button
         android:id="@+id/btnCook"
-        android:text="@string/what_to_cook"
-        android:layout_marginTop="100dp"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:onClick="randomCook"/>
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/actionbar_background"
+        android:textColor="@color/color_white"
+        android:onClick="randomCook"
+        android:text="@string/what_to_cook"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <Button
         android:id="@+id/btnByIngr"
-        android:text="@string/find_by_ing"
-        android:layout_below="@+id/btnCook"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:onClick="ingrCook"/>
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/actionbar_background"
+        android:onClick="ingrCook"
+        android:text="@string/find_by_ing"
+        android:textColor="@color/color_white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCook" />
+
     <Button
         android:id="@+id/btnFavorite"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/actionbar_background"
+        android:onClick="clickFavorite"
         android:text="@string/button_favorite"
-        android:layout_below="@+id/btnByIngr"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="clickFavorite"/>
-
-    <com.google.android.gms.ads.AdView
-        android:layout_alignParentBottom="true"
-        android:id="@+id/adView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_id"/>
-
-</RelativeLayout>
+        android:textColor="@color/color_white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnByIngr" />
+</android.support.constraint.ConstraintLayout>

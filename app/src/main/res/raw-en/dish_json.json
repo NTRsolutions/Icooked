@@ -29,7 +29,7 @@
 		"title":"Borsch with beef",
 		"sound":"boil",
 		"time":110,
-		"ingr":["beef", "cabbage", "beet", "potatoes"],
+		"ingr":["beef", "cabbage", "beet", "potato"],
 		"recipe":"The products on 6 servings:\n Beef - 500 g\n Beetroot - 1 piece.\n Potatoes - 2 pcs.\n Cabbage - 200 g\n Carrots - 1 pc.\n Onions - 1 pc.\n Herbs (dill or parsley) - 2-3 tsp.\n tomato paste - 1 tbsp.\n vegetable oil - 2 tbsp.\n tablespoons vinegar - 1 tsp.\n Sour cream - 2 tbsp.\n salt - 2 tsp.\n black pepper peas - 2 -3 pcs.\n bay leaf - 1 pc.\n\n Beef washed, cut into large chunks. Pour 1.5 liters of water and cook for 90 minutes over medium heat, removing the foam formed. At the end of cooking salt. Beets clean, wash, cut into strips. Carrots are clean, wash, grate. Onions clean, wash and finely chop. Wash the cabbage, chop. Peel the potatoes, wash and cut into cubes. In a skillet heat the vegetable oil. On medium heat, beets, carrots and onions, stirring occasionally, simmer in a pan with vegetable oil for 5-7 minutes.\n At the end, add the vinegar and tomato paste. Stir. In the boiling broth to put the potatoes and cabbage, cook for 10 minutes. Then add the steamed vegetables, bay leaves and, if desired, and pepper. Simmer soup with beef for 5-7 minutes. Ready soup with beef pour into bowls, sour cream and sprinkle with herbs."
 	}
 	,
@@ -77,7 +77,7 @@
 		"title":"Dumplings with potatoes",
 		"sound":"boil",
 		"time":60,
-		"ingr":["flour", "potatoes"],
+		"ingr":["flour", "potato"],
 		"recipe":"You will need: flour - 3 cups, sour cream - 3 tablespoons; soda - 0.5 tsp, 0.5 cups of water; Potatoes - 5-6 pcs; Onions - 3 pcs; Butter - 100 g Salt .\n Potatoes and onions clean, wash. Cut into pieces. Boil 2.5 liters of water, salt. Lower the potatoes and onions in boiling water. Cook until tender, about 20-25 minutes. Onion peel and wash. Cut in small pieces. Melt the butter. \n Put the onion and fry over medium heat, stirring occasionally, until golden brown (4-6 minutes). When the potatoes are cooked, drain all the water. Make a puree. Salt and pepper, add the 1/3 fried onions and butter. Mix well. Cool filling. Prepare the dough for the dumplings and potatoes. Sift flour, mix with salt. Add to cream soda. Mix well. Sour cream and soda add to flour, stir, stirring constantly and adding water, knead the dough of medium thickness.\n The dough covered with a towel. Let stand for 20 minutes. The dough is divided into 4 parts. Roll the piece of dough into a circle (1.5-2 mm thick), as required sprinkle with flour. Squeeze a glass circles. In the middle of each circle to put not a full teaspoon of the potato filling. The edge of the dumpling carefully stick together.\n Blindly all dumplings. Pour into a pan of water. Boil. Season with salt. Put a portion of dumplings. Slightly stop to dumplings do not stick to the bottom of the pan. Cook dumplings with potatoes 2-3 minutes after bubbling."
 	}
 	,
@@ -85,7 +85,7 @@
 		"title":"Pollock in sour cream",
 		"sound":"boil",
 		"time":40,
-		"ingr":["Pollock", "sour cream", "carrots"],
+		"ingr":["pollock", "sour cream", "carrots"],
 		"recipe":"Pollock fresh - 400 g, onions - 2 pieces; carrots - 1 pc; Sour cream (15%) - 3 cl, salt, spices to taste. \n Purified carcass pollock cut portions into small pieces (Be sure the fish is fresh! !!). We cut finely the onion, carrots, grate on a coarse grater. Sour cream is diluted with water (50 ml), salt, add spices and stir.\n Fry onion, add it to the carrots and simmer 5 - 7 minutes. On the carrot-onion Put the fish pieces and pour sour cream and spices. Simmer, covered on low heat for 20 minutes. In the process of putting the fish have to flip to the other side and from top to sauce."
 	}
 	,
@@ -189,7 +189,7 @@
 		"title":"Pasta casserole with minced",
 		"sound":"fry",
 		"time":45,
-		"ingr":["pasta","minced meat","egg","milk"],
+		"ingr":["pasta","minced meat","egg"],
 		"recipe":" Ingredients:\n spaghetti , shells or others - 300 g.\n minced chicken - 200-300 g.\n Milk - 1 cup\n Eggs - 1 pc .\n Tomato ketchup - half a cup; onions - 1 pc. spices, Provencal grass; vegetable oil; ground black pepper; salt. \nIn a wide saucepan pour half of the volume of water, bring to a boil. Then, add some salt and drop the pasta, cook with the lid open until half cooked. Recline in a colander, pour the oil on top of the spoon to the product are not stuck together, knead. \n Next, we take a ready, raw minced meat and pour in a quarter cup of milk, salt, pepper, stir. Thereafter, at the bottom of the round or square-shaped pour oil. Then spread an even layer of cooked pasta.\n From stuffing balls do, then flattening them. These thin layers put on the entire surface of the pasta. In a bowl mix the rest of the milk, ketchup, herbs, spices and egg. Cook the mixture, but do not shake up it, but simply mixed. Next, fill minced meat on top with the mixture and place the form in a preheated 190 ° C oven for about 20-30 minutes, until then, until the sauce has evaporated."
 	  }
 	  ,
@@ -261,7 +261,7 @@
 		"title":"Fried potatoes with egg",
 		"sound":"fry",
 		"time":50,
-		"ingr":["potatoes","milk","egg"],
+		"ingr":["potato","milk","egg"],
 		"recipe":" Ingredients:\n Potatoes - 1 kg.\n Egg - 3 pieces.\n Milk - 1 tbsp.\n Cleaned and cooked potato slice and fry in oil. Eggs break into a saucepan, add the milk, salt and stir well. Roasted potatoes, pour the eggs and bake."
 	  }
 	  ,
@@ -325,7 +325,7 @@
 		"title":"Potatoes with chicken in the oven",
 		"sound":"fry",
 		"time":90,
-		"ingr":["chicken","potatoes"],
+		"ingr":["chicken","potato"],
 		"recipe":" Ingredients:\n 1 chicken (legs or 3-4)\n mayonnaise 3 tbsp.\n salt, pepper\n 3 cloves garlic\n 1 kg. of potatoes\n\n Chicken cut into pieces a la carte. If you have legs, they also cut in half. Clean the garlic and cut each clove lengthwise into 3 parts, so it is more convenient lard bird. Chicken stuffed with garlic now rub it with salt and pepper and smear mayonnaise. We spread the chicken on a baking sheet and put in the oven for 30 minutes. Bake at 180-190 degrees Celsius.\n Potatoes clean and cut slices (thin). We took out the chicken and spread on a baking potatoes to the chicken, salt it and mix with the fat formed in the process.\n I have adapted and spread the potatoes are not on the sides of the chicken (or it is burnt on the edges), and in the midway, and the chicken moves closer to the edge. It turns a fortress from the outside well-roasted chicken and potatoes inside remains soft and cooked in the juice of the bird, you can add a little water or beer. Cook for 40-50 minutes."
 	  }
 	  ,
@@ -373,7 +373,7 @@
 		"title":"Soup saury",
 		"sound":"boil",
 		"time":60,
-		"ingr":["saury","potatoes"],
+		"ingr":["saury","potato"],
 		"recipe":" Ingredients:\n water - 2 l.\n small potatoes - 4\n medium onion - 1 pc .\n carrots - half the average or one small\n 1 jar of canned saury\n salt, pepper\n bay leaves are large\n any spices\n dill and parsley - 3 sprigs\n oil\n\n Potatoes cut into medium dice. Wash rice with cold water. Onions finely chop. In boiling salted water, add the potatoes and rice. Cook for 15 minutes. Onions fry in vegetable oil. Half of saury mash with a fork into small pieces. After 15 minutes in the pan with the potatoes and add the rice saury (chunks and chopped) with an oil-filled and fried onions. pepper. Cook for another 10-15 minutes. When a plate soup can decorate with parsley."
 	  }
 	]

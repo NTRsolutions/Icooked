@@ -62,6 +62,8 @@ public class DB {
     private DBHelper mDBHelper;
     private SQLiteDatabase mDB;
 
+    int quantity;
+
     public DB (Context ctx) {
         mCtx = ctx;
     }
@@ -107,11 +109,39 @@ public class DB {
     String ingr2;
     String ingr3;
     String ingr4;
-    public void getMyIngr(String ingr1, String ingr2, String ingr3, String ingr4){
+    public void getMyIngr(String ...ingr){
+        Log.d(LOG_TAG, "--- getMyIngr --- length: " + ingr.length);
+        switch (ingr.length) {
+            case 1: this.ingr1 = ingr[0];
+                    quantity = 1;
+                    break;
+            case 2: this.ingr1 = ingr[0];
+                    this.ingr2 = ingr[1];
+                quantity = 2;
+                    break;
+            case 3: this.ingr1 = ingr[0];
+                    this.ingr2 = ingr[1];
+                    this.ingr3 = ingr[2];
+                quantity = 3;
+                    break;
+            case 4: this.ingr1 = ingr[0];
+                    this.ingr2 = ingr[1];
+                    this.ingr3 = ingr[2];
+                    this.ingr4 = ingr[3];
+                quantity = 4;
+                    break;
+            default: Log.d(LOG_TAG, "getMyIngr wrong case");
+
+        }
+        /*
         this.ingr1 = ingr1;
         this.ingr2 = ingr2;
+        if (ingr2.equals("null")) this.ingr2 = "empty";
         this.ingr3 = ingr3;
+        if (ingr3.equals("null")) this.ingr3 = "empty";
         this.ingr4 = ingr4;
+        if (ingr4.equals("null")) this.ingr4 = "empty";
+        */
         Log.d(LOG_TAG, "--- getMyIngr COMPLETE---");
     }
 
@@ -119,15 +149,46 @@ public class DB {
     public Cursor getDishWithMyIng1() {
         Log.d(LOG_TAG, "--- INNER JOIN with rawQuery---");
         //String sqlQuery = "SELECT dishtab.title "
-        String sqlQuery = "SELECT title, dishtab._id, ingrtab._id "
-                + "from dishtab "
-                + "inner join ingrtab "
-                + "on dishtab._id = ingrtab._id "
-                + "where (ingrtab.ingr_1 = @ingr1 OR ingrtab.ingr_2 = @ingr1 OR ingrtab.ingr_3 = @ingr1 OR ingrtab.ingr_4 = @ingr1) AND " +
-                " (ingrtab.ingr_1 = @ingr2 OR ingrtab.ingr_2 = @ingr2 OR ingrtab.ingr_3 = @ingr2 OR ingrtab.ingr_4 = @ingr2) AND" +
-                " (ingrtab.ingr_1 = @ingr3 OR ingrtab.ingr_2 = @ingr3 OR ingrtab.ingr_3 = @ingr3 OR ingrtab.ingr_4 = @ingr3) AND" +
-                " (ingrtab.ingr_1 = @ingr4 OR ingrtab.ingr_2 = @ingr4 OR ingrtab.ingr_3 = @ingr4 OR ingrtab.ingr_4 = @ingr4)";
-        c = mDB.rawQuery(sqlQuery, new String[] {ingr1, ingr2, ingr3, ingr4} );
+        String sqlQuery;
+        switch (quantity) {
+            case 1: sqlQuery = "SELECT title, dishtab._id, ingrtab._id "
+                    + "from dishtab "
+                    + "inner join ingrtab "
+                    + "on dishtab._id = ingrtab._id "
+                    + "where (ingrtab.ingr_1 = @ingr1 OR ingrtab.ingr_2 = @ingr1 OR ingrtab.ingr_3 = @ingr1 OR ingrtab.ingr_4 = @ingr1)";
+                    c = mDB.rawQuery(sqlQuery, new String[] {ingr1} );
+                    break;
+
+            case 2: sqlQuery = "SELECT title, dishtab._id, ingrtab._id "
+                    + "from dishtab "
+                    + "inner join ingrtab "
+                    + "on dishtab._id = ingrtab._id "
+                    + "where (ingrtab.ingr_1 = @ingr1 OR ingrtab.ingr_2 = @ingr1 OR ingrtab.ingr_3 = @ingr1 OR ingrtab.ingr_4 = @ingr1) AND " +
+                    " (ingrtab.ingr_1 = @ingr2 OR ingrtab.ingr_2 = @ingr2 OR ingrtab.ingr_3 = @ingr2 OR ingrtab.ingr_4 = @ingr2)";
+                    c = mDB.rawQuery(sqlQuery, new String[] {ingr1, ingr2} );
+                    break;
+
+            case 3: sqlQuery = "SELECT title, dishtab._id, ingrtab._id "
+                    + "from dishtab "
+                    + "inner join ingrtab "
+                    + "on dishtab._id = ingrtab._id "
+                    + "where (ingrtab.ingr_1 = @ingr1 OR ingrtab.ingr_2 = @ingr1 OR ingrtab.ingr_3 = @ingr1 OR ingrtab.ingr_4 = @ingr1) AND " +
+                    " (ingrtab.ingr_1 = @ingr2 OR ingrtab.ingr_2 = @ingr2 OR ingrtab.ingr_3 = @ingr2 OR ingrtab.ingr_4 = @ingr2) AND " +
+                    " (ingrtab.ingr_1 = @ingr3 OR ingrtab.ingr_2 = @ingr3 OR ingrtab.ingr_3 = @ingr3 OR ingrtab.ingr_4 = @ingr3)";
+                    c = mDB.rawQuery(sqlQuery, new String[] {ingr1, ingr2, ingr3} );
+                    break;
+
+            case 4: sqlQuery = "SELECT title, dishtab._id, ingrtab._id "
+                    + "from dishtab "
+                    + "inner join ingrtab "
+                    + "on dishtab._id = ingrtab._id "
+                    + "where (ingrtab.ingr_1 = @ingr1 OR ingrtab.ingr_2 = @ingr1 OR ingrtab.ingr_3 = @ingr1 OR ingrtab.ingr_4 = @ingr1) AND " +
+                    " (ingrtab.ingr_1 = @ingr2 OR ingrtab.ingr_2 = @ingr2 OR ingrtab.ingr_3 = @ingr2 OR ingrtab.ingr_4 = @ingr2) AND" +
+                    " (ingrtab.ingr_1 = @ingr3 OR ingrtab.ingr_2 = @ingr3 OR ingrtab.ingr_3 = @ingr3 OR ingrtab.ingr_4 = @ingr3) AND" +
+                    " (ingrtab.ingr_1 = @ingr4 OR ingrtab.ingr_2 = @ingr4 OR ingrtab.ingr_3 = @ingr4 OR ingrtab.ingr_4 = @ingr4)";
+                    c = mDB.rawQuery(sqlQuery, new String[] {ingr1, ingr2, ingr3, ingr4} );
+                    break;
+        }
         Log.d(LOG_TAG, "--- getDishWithMyIng1 RETURNED ---");
         return c;
 

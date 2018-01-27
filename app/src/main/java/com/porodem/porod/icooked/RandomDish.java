@@ -70,7 +70,7 @@ public class RandomDish extends AppCompatActivity implements SoundPool.OnLoadCom
         soundCut = sp.load(this, R.raw.cut, 1);
 
         //for left button in actionBar for back
-        getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
+        //getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
 
         //get resurses for all images in original order
         Resources res = getResources();
